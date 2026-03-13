@@ -20,7 +20,7 @@ export default function HeroClassic() {
         <div className="flex justify-center">
           <div className="relative w-72 h-72 rounded-full border-4 border-emerald-500 p-2 overflow-hidden shadow-lg shadow-emerald-500/20">
             <img
-              src="https://res.cloudinary.com/djyg0sy4u/iage/upload/v1772603967/products/updated-1772603966861.jpg"
+              src="src/assets/profile.jpeg"
               alt="Jegatheesh"
               className="w-full h-full object-cover rounded-full"
             />
